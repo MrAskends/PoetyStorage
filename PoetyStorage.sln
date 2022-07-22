@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoetyStorage", "PoetyStorage\PoetyStorage.csproj", "{7A3DB372-7331-47AD-992F-34031FAC41DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3DB372-7331-47AD-992F-34031FAC41DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3DB372-7331-47AD-992F-34031FAC41DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3DB372-7331-47AD-992F-34031FAC41DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3DB372-7331-47AD-992F-34031FAC41DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A6176A-0FCB-4D72-A1ED-E8E3692E3B16}
+	EndGlobalSection
+EndGlobal
