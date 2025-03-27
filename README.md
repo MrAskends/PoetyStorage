@@ -6,21 +6,24 @@ This project was built as part of a university course to demonstrate basic WinFo
 ## Purpose
 This application was created for educational use and practice with:
 - Object-oriented programming
+- MySQL databases
+- SQL queries
 - Windows Forms GUI design
 - User authentication
-- File-based data storage
 - Multi-form architecture
 
 ## Features
 - Login and registration system
 - Poem reader interface with navigation
 - Text-based poem storage
-- ⚙Basic application settings form
+- Basic application settings form
 - In-memory and/or file-based user/poem handling
 
 ## Technologies
 - C#  
-- .NET Framework  
+- .NET Framework
+- SQL queries
+- MySQL databases
 - Windows Forms (WinForms)  
 - Visual Studio 2019+
 
