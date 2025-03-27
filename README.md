@@ -1,6 +1,6 @@
 # PoetyStorage
 **PoetyStorage** is a Windows Forms application written in C# that allows users to store and read poems.  
-It includes login/registration functionality and customizable user settings.  
+It includes login/registration functionality and customizable user settings. Users and poems stored in a MySQL database.
 This project was built as part of a university course to demonstrate basic WinForms, file handling, and user authentication.
 
 ## Purpose
